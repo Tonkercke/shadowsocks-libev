@@ -16,7 +16,7 @@
             "value": "/ChangeThis"        
         }
     },
-    "website": "https://github.com/mixool/shadowsocks-libev",
-    "repository": "https://github.com/mixool/shadowsocks-libev",
+    "website": "https://github.com/shadowsocks/shadowsocks-libev",
+    "repository": "https://github.com/shadowsocks/shadowsocks-libev",
     "stack": "container"
 }
